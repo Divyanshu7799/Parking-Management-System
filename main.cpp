@@ -76,6 +76,7 @@ int main(){
         }
         
 cout<<"Thanks"<<endl;
+cout<<"Program End"<<endl;
      }
    
 }
