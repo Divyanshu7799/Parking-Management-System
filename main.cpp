@@ -75,7 +75,8 @@ int main(){
             break;
         }
         
-
+cout<<"Thanks"<<endl;
+cout<<"Program End"<<endl;
      }
    
 }
